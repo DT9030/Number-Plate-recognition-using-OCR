@@ -25,5 +25,4 @@ This project demonstrates a simple and efficient way to recognize vehicle number
 
 ---
 
-## 📁 Project Structure
 
